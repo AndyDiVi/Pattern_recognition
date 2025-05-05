@@ -12,7 +12,7 @@ Le crepe superficiali sono indicatori critici di degrado strutturale e la loro c
 - **Classificazione** con algoritmi SVM e Random Forest  
 - **Detection automatica** tramite Image Labeler e `trainCascade` di MATLAB
   
-#Getting Started
+# Getting Started
 ## 📦 Contenuto del Repository
 
 - `Detection.m` – Script per la rilevazione automatica delle crepe  
